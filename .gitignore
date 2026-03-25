@@ -1,0 +1,4 @@
+id="gitignore1"
+mycontainer
+*.o
+rootfs/*
